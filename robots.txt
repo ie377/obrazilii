@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://obrazilii.ru/sitemap.xml
